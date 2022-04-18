@@ -1,0 +1,4 @@
+Perasaan saya ketika belajar python pada DDP1 ini sangat excited. Saya sebelumnya sudah melakukan instalasi
+python sendiri sehingga tidak ada kendala ketika instalasi dan pengerjaan lab00. Kemampuan programming saya
+2 dari skala 1-5, saya baru belajar hal dasar pemrograman. Ekspektasi untuk asdos DDP1 adalah dapat membantu
+mahasiswa DDP1 dalam belajar dan memberikan arahan teknis yang jelas dalam perkuliahan.
